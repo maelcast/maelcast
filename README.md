@@ -17,4 +17,4 @@ Actualmente trabajo en el sector de **logística** desarrollando soluciones con 
 
 - 💼 **Trabajo actual:** Desarrollador de medio tiempo en soluciones logísticas y de transporte.
 - 🎓 **Formación:** Ing. en TI + Ing. en Biotecnología (en curso).
-- 🎮 **Hobbies:** Gamer estratégico, musica y fotografia.
+- 🎮 **Hobbies:** Gamer, musica y fotografia.
